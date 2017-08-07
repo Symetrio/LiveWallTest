@@ -69,6 +69,8 @@ public Context context;
     @Override
     public void onTouchEvent(MotionEvent event) {
 
+
+
     }
     @Override
     public void onRender(final long elapsedTime, final double deltaTime){
